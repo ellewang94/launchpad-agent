@@ -1,5 +1,5 @@
 ---
-description: Build a complete paid-social launch plan for a merchant's product: assumptions, funnel forecast, weekly budget split, and next steps.
+description: "Build a complete paid-social launch plan for a merchant's product: assumptions, funnel forecast, weekly budget split, and next steps."
 ---
 
 # Launch plan procedure

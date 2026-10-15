@@ -1,5 +1,5 @@
 ---
-description: Write short-form video ad hooks and a shot list for a merchant's product when they ask for creative, ad ideas, or scripts.
+description: "Write short-form video ad hooks and a shot list for a merchant's product when they ask for creative, ad ideas, or scripts."
 ---
 
 # Ad hook procedure
