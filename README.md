@@ -16,6 +16,7 @@ agent/
 ├── agent.ts                   # model: anthropic/claude-sonnet-5 via AI Gateway
 ├── instructions.md            # identity and standing rules
 ├── channels/eve.ts            # HTTP API channel + route auth
+├── channels/home.ts           # public web chat at the deployment root (/)
 ├── tools/
 │   ├── get_benchmarks.ts      # illustrative CPM / CTR / CVR by category
 │   ├── estimate_funnel.ts     # budget → impressions → orders → ROAS vs break-even
